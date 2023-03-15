@@ -9,7 +9,6 @@ class FruitsList extends StatefulWidget {
 }
 
 class _FruitsListState extends State<FruitsList> {
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(

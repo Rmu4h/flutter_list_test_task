@@ -1,16 +1,13 @@
-# flutter_list_test_task
+# Mobile application that shows list of fruits
 
-A new Flutter project.
+What was implemented:
+1. Screen is a list of fruits. By clicking on the item, you can see detailed information.
+2. On long press you can edit item.
+3. You can delete item on swipe.
 
-## Getting Started
+Technology stack:
+1. DART
+2. FLUTTER
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/51286978/225226441-3f96efa4-5e02-4ffb-97b0-326592830c44.mp4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
